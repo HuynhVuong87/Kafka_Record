@@ -1,0 +1,200 @@
+Value:  1 Thu Jan 19 23:38:16 ICT 2017 - EAGLE 46.3.2.0.0-68.32.0 * 4009.0536 * IP7CONN mzlf2 IP Connection Excess Retransmits
+ - offset: 1790
+Value:  2 Thu Jan 19 23:42:35 ICT 2017 - EAGLE 46.3.2.0.0-68.32.0 * 4306.0536 * IP7CONN mzlf2 IP Connection Excess Retransmits
+ - offset: 1791
+Value:  3 Thu Jan 19 23:43:52 ICT 2017 - EAGLE 46.3.2.0.0-68.32.0 * 4393.0536 * IP7CONN mzlf1 IP Connection Excess Retransmits
+ - offset: 1792
+Value:  4 Thu Jan 19 23:45:56 ICT 2017 - EAGLE 46.3.2.0.0-68.32.0 * 4535.0536 * IP7CONN mzlf3 IP Connection Excess Retransmits
+ - offset: 1793
+Value:  5 Thu Jan 19 23:50:43 ICT 2017 - EAGLE 46.3.2.0.0-68.32.0 * 4864.0536 * IP7CONN mzlf3 IP Connection Excess Retransmits
+ - offset: 1794
+Value:  6 Thu Jan 19 23:50:44 ICT 2017 - EAGLE 46.3.2.0.0-68.32.0 * 4865.0536 * IP7CONN mzlf4 IP Connection Excess Retransmits
+ - offset: 1795
+Value:  7 Thu Jan 19 23:54:04 ICT 2017 - EAGLE 46.3.2.0.0-68.32.0 * 0095.0536 * IP7CONN mzlf3 IP Connection Excess Retransmits
+ - offset: 1796
+Value:  8 Thu Jan 19 23:58:04 ICT 2017 - EAGLE 46.3.2.0.0-68.32.0 * 0370.0536 * IP7CONN mzlf2 IP Connection Excess Retransmits
+ - offset: 1797
+Value:  9 Fri Jan 19 00:00:12 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0523.0536 * IP7CONN mzlf1 IP Connection Excess Retransmits
+ - offset: 1798
+Value:  10 Fri Jan 19 00:00:41 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0557.0536 * IP7CONN mzlf4 IP Connection Excess Retransmits
+ - offset: 1799
+Value:  11 Fri Jan 19 00:02:10 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0659.0536 * IP7CONN mzlf2 IP Connection Excess Retransmits
+ - offset: 1800
+Value:  12 Fri Jan 19 00:18:21 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 1760.0536 * IP7CONN mzlf3 IP Connection Excess Retransmits
+ - offset: 1801
+Value:  13 Fri Jan 19 00:40:17 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3250.0536 * IP7CONN mzlf1 IP Connection Excess Retransmits
+ - offset: 1802
+Value:  14 Fri Jan 19 00:44:25 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3532.0536 * IP7CONN mzlf1 IP Connection Excess Retransmits
+ - offset: 1803
+Value:  15 Fri Jan 19 00:54:09 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 4194.0536 * IP7CONN mzlf1 IP Connection Excess Retransmits
+ - offset: 1804
+Value:  16 Fri Jan 19 00:58:05 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 4463.0536 * IP7CONN mzlf4 IP Connection Excess Retransmits
+ - offset: 1805
+Value:  17 Fri Jan 19 01:07:29 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 ** 0110.0241 ** SLK 1111,A8 stpt4bs REPT-LKF: rcvd remote out of service SLC=02 FECLLI=stpt4bs CLASS=IPVHSL
+ - offset: 1806
+Value:  18 Fri Jan 19 01:07:46 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 ** 0132.0084 ** IP7CONN stpt4bx3 IP Connection Unavailable
+ - offset: 1807
+Value:  19 Fri Jan 19 01:11:06 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0365.0536 * IP7CONN mzlf3 IP Connection Excess Retransmits
+ - offset: 1808
+Value:  20 Fri Jan 19 01:13:07 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0506.0536 * IP7CONN mzlf2 IP Connection Excess Retransmits
+ - offset: 1809
+Value:  21 Fri Jan 19 01:15:45 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 ** 0704.0241 ** SLK 2115,A stpt4b REPT-LKF: rcvd remote out of service SLC=00 FECLLI=stpt4b CLASS=SAAL
+ - offset: 1810
+Value:  22 Fri Jan 19 01:15:45 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 ** 0705.0318 ** LSN stpt4b REPT-LKSTO: link set prohibited
+ - offset: 1811
+Value:  23 Fri Jan 19 01:15:53 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 ** 0715.0241 ** SLK 1105,A3 stpt4bs REPT-LKF: rcvd remote out of service SLC=00 FECLLI=stpt4bs CLASS=IPVHSL
+ - offset: 1812
+Value:  24 Fri Jan 19 01:16:03 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 ** 0727.0241 ** SLK 1112,A6 stpt4bs REPT-LKF: rcvd remote out of service SLC=03 FECLLI=stpt4bs CLASS=IPVHSL
+ - offset: 1813
+Value:  25 Fri Jan 19 01:16:13 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0739.0312 * DPC 08755 DPC is restricted
+ - offset: 1814
+Value:  26 Fri Jan 19 01:16:13 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0741.0312 * DPC 08672 DPC is restricted
+ - offset: 1815
+Value:  27 Fri Jan 19 01:16:13 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0742.0312 * DPC 08700 DPC is restricted
+ - offset: 1816
+Value:  28 Fri Jan 19 01:16:13 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0743.0312 * DPC 08349 DPC is restricted
+ - offset: 1817
+Value:  29 Fri Jan 19 01:16:14 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0745.0312 * DPC 08368 DPC is restricted
+ - offset: 1818
+Value:  30 Fri Jan 19 01:16:14 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0746.0312 * DPC 08671 DPC is restricted
+ - offset: 1819
+Value:  31 Fri Jan 19 01:16:14 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0747.0312 * DPC 08676 DPC is restricted
+ - offset: 1820
+Value:  32 Fri Jan 19 01:16:14 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0748.0312 * DPC 08764 DPC is restricted
+ - offset: 1821
+Value:  33 Fri Jan 19 01:16:23 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 ** 0759.0084 ** IP7CONN stpt4b IP Connection Unavailable
+ - offset: 1822
+Value:  34 Fri Jan 19 01:16:23 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 ** 0760.0084 ** IP7CONN stpt4bx4 IP Connection Unavailable
+ - offset: 1823
+Value:  35 Fri Jan 19 01:26:39 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 1516.0536 * IP7CONN mzlf3 IP Connection Excess Retransmits
+ - offset: 1824
+Value:  36 Fri Jan 19 01:35:29 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 ** 2111.0241 ** SLK 1106,A9 stpt4bs REPT-LKF: rcvd remote out of service SLC=01 FECLLI=stpt4bs CLASS=IPVHSL
+ - offset: 1825
+Value:  37 Fri Jan 19 01:35:42 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 ** 2127.0084 ** IP7CONN stpt4bx2 IP Connection Unavailable
+ - offset: 1826
+Value:  38 Fri Jan 19 01:52:31 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3269.0536 * IP7CONN mzlf1 IP Connection Excess Retransmits
+ - offset: 1827
+Value:  39 Fri Jan 19 02:43:58 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 1761.0536 * IP7CONN mzlf2 IP Connection Excess Retransmits
+ - offset: 1828
+Value:  40 Fri Jan 19 03:29:28 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 4852.0536 * IP7CONN mzlf4 IP Connection Excess Retransmits
+ - offset: 1829
+Value:  41 Fri Jan 19 03:33:06 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0105.0536 * IP7CONN mzlf4 IP Connection Excess Retransmits
+ - offset: 1830
+Value:  42 Fri Jan 19 03:37:18 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0392.0536 * IP7CONN mzlf4 IP Connection Excess Retransmits
+ - offset: 1831
+Value:  43 Fri Jan 19 03:37:47 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0427.0536 * IP7CONN mzlf3 IP Connection Excess Retransmits
+ - offset: 1832
+Value:  44 Fri Jan 19 03:41:29 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0677.0536 * IP7CONN mzlf3 IP Connection Excess Retransmits
+ - offset: 1833
+Value:  45 Fri Jan 19 03:47:37 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 1095.0536 * IP7CONN mzlf4 IP Connection Excess Retransmits
+ - offset: 1834
+Value:  46 Fri Jan 19 03:53:48 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 1516.0536 * IP7CONN mzlf4 IP Connection Excess Retransmits
+ - offset: 1835
+Value:  47 Fri Jan 19 03:54:17 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 1548.0536 * IP7CONN mzlf3 IP Connection Excess Retransmits
+ - offset: 1836
+Value:  48 Fri Jan 19 04:02:30 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 2117.0536 * IP7CONN mzlf2 IP Connection Excess Retransmits
+ - offset: 1837
+Value:  49 Fri Jan 19 04:03:55 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 2216.0536 * IP7CONN mzlf1 IP Connection Excess Retransmits
+ - offset: 1838
+Value:  50 Fri Jan 19 04:06:14 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 2373.0536 * IP7CONN mzlf4 IP Connection Excess Retransmits
+ - offset: 1839
+Value:  51 Fri Jan 19 04:07:19 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 2449.0536 * IP7CONN mzlf2 IP Connection Excess Retransmits
+ - offset: 1840
+Value:  52 Fri Jan 19 04:07:44 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 2480.0536 * IP7CONN mzlf3 IP Connection Excess Retransmits
+ - offset: 1841
+Value:  53 Fri Jan 19 04:14:14 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 2923.0536 * IP7CONN mzlf2 IP Connection Excess Retransmits
+ - offset: 1842
+Value:  54 Fri Jan 19 04:16:40 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3091.0536 * IP7CONN mzlf3 IP Connection Excess Retransmits
+ - offset: 1843
+Value:  55 Fri Jan 19 04:23:16 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3540.0536 * IP7CONN mzlf4 IP Connection Excess Retransmits
+ - offset: 1844
+Value:  56 Fri Jan 19 04:24:04 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3595.0536 * IP7CONN mzlf1 IP Connection Excess Retransmits
+ - offset: 1845
+Value:  57 Fri Jan 19 04:24:44 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3643.0536 * IP7CONN mzlf4 IP Connection Excess Retransmits
+ - offset: 1846
+Value:  58 Fri Jan 19 04:26:18 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3751.0536 * IP7CONN mzlf1 IP Connection Excess Retransmits
+ - offset: 1847
+Value:  59 Fri Jan 19 04:26:26 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3762.0536 * IP7CONN mzlf4 IP Connection Excess Retransmits
+ - offset: 1848
+Value:  60 Fri Jan 19 04:32:49 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 4201.0536 * IP7CONN mzlf3 IP Connection Excess Retransmits
+ - offset: 1849
+Value:  61 Fri Jan 19 04:38:02 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 4559.0536 * IP7CONN mzlf4 IP Connection Excess Retransmits
+ - offset: 1850
+Value:  62 Fri Jan 19 04:45:56 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0100.0536 * IP7CONN mzlf4 IP Connection Excess Retransmits
+ - offset: 1851
+Value:  63 Fri Jan 19 04:54:18 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0670.0535 * IP7CONN mzlf3 IP Connection Restricted
+ - offset: 1852
+Value:  64 Fri Jan 19 04:54:33 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0688.0536 * IP7CONN mzlf3 IP Connection Excess Retransmits
+ - offset: 1853
+Value:  65 Fri Jan 19 05:55:11 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 *C 4813.0313 *C DPC 04468 DPC is prohibited LSN=----------
+ - offset: 1854
+Value:  66 Fri Jan 19 07:18:55 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0507.0535 * IP7CONN mzlf1 IP Connection Restricted
+ - offset: 1855
+Value:  67 Fri Jan 19 07:19:35 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0554.0536 * IP7CONN mzlf1 IP Connection Excess Retransmits
+ - offset: 1856
+Value:  68 Fri Jan 19 07:46:44 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 2398.0535 * IP7CONN mzlf3 IP Connection Restricted
+ - offset: 1857
+Value:  69 Fri Jan 19 07:53:14 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 2842.0535 * IP7CONN mzlf3 IP Connection Restricted
+ - offset: 1858
+Value:  70 Fri Jan 19 08:21:11 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 ** 4748.0084 ** DLK 1113,A OAM IP Connection Unavailable
+ - offset: 1859
+Value:  71 Fri Jan 19 08:31:17 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0437.0536 * IP7CONN smsbx2 IP Connection Excess Retransmits
+ - offset: 1860
+Value:  72 Fri Jan 19 08:31:31 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0454.0536 * IP7CONN smsbx1 IP Connection Excess Retransmits
+ - offset: 1861
+Value:  73 Fri Jan 19 08:32:59 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0559.0535 * IP7CONN smsbx1 IP Connection Restricted
+ - offset: 1862
+Value:  74 Fri Jan 19 08:33:06 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0568.0536 * IP7CONN smsbx1 IP Connection Excess Retransmits
+ - offset: 1863
+Value:  75 Fri Jan 19 08:35:36 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0743.0536 * IP7CONN mzlf2 IP Connection Excess Retransmits
+ - offset: 1864
+Value:  76 Fri Jan 19 08:36:49 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0831.0535 * IP7CONN smsbx1 IP Connection Restricted
+ - offset: 1865
+Value:  77 Fri Jan 19 08:38:02 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0918.0536 * IP7CONN smsbx1 IP Connection Excess Retransmits
+ - offset: 1866
+Value:  78 Fri Jan 19 08:38:49 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0975.0535 * IP7CONN smsbx1 IP Connection Restricted
+ - offset: 1867
+Value:  79 Fri Jan 19 08:39:07 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 0995.0536 * IP7CONN smsbx1 IP Connection Excess Retransmits
+ - offset: 1868
+Value:  80 Fri Jan 19 08:39:22 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 1014.0535 * IP7CONN smsbx1 IP Connection Restricted
+ - offset: 1869
+Value:  81 Fri Jan 19 08:40:06 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 1065.0536 * IP7CONN smsbx1 IP Connection Excess Retransmits
+ - offset: 1870
+Value:  82 Fri Jan 19 08:41:15 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 1148.0535 * IP7CONN smsbx1 IP Connection Restricted
+ - offset: 1871
+Value:  83 Fri Jan 19 08:41:48 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 1188.0536 * IP7CONN mzlf2 IP Connection Excess Retransmits
+ - offset: 1872
+Value:  84 Fri Jan 19 08:41:48 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 1189.0536 * IP7CONN smsbx1 IP Connection Excess Retransmits
+ - offset: 1873
+Value:  85 Fri Jan 19 08:46:02 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 ** 1487.0245 ** SLK 2203,A stpt1b REPT-LKF: FAC - DS1/E1 LOF failure SLC=01 FECLLI=stpt1b CLASS=SAAL
+ - offset: 1874
+Value:  86 Fri Jan 19 08:51:04 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 1842.0535 * IP7CONN smsbx1 IP Connection Restricted
+ - offset: 1875
+Value:  87 Fri Jan 19 08:51:26 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 1869.0536 * IP7CONN smsbx1 IP Connection Excess Retransmits
+ - offset: 1876
+Value:  88 Fri Jan 19 09:03:04 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 2691.0535 * IP7CONN smsbx1 IP Connection Restricted
+ - offset: 1877
+Value:  89 Fri Jan 19 09:03:26 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 2718.0536 * IP7CONN smsbx1 IP Connection Excess Retransmits
+ - offset: 1878
+Value:  90 Fri Jan 19 09:04:57 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 2826.0535 * IP7CONN mzlf1 IP Connection Restricted
+ - offset: 1879
+Value:  91 Fri Jan 19 09:05:41 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 2879.0535 * IP7CONN smsbx1 IP Connection Restricted
+ - offset: 1880
+Value:  92 Fri Jan 19 09:05:55 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 2897.0536 * IP7CONN smsbx1 IP Connection Excess Retransmits
+ - offset: 1881
+Value:  93 Fri Jan 19 09:08:03 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3046.0535 * IP7CONN smsbx1 IP Connection Restricted
+ - offset: 1882
+Value:  94 Fri Jan 19 09:09:04 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3119.0536 * IP7CONN smsbx1 IP Connection Excess Retransmits
+ - offset: 1883
+Value:  95 Fri Jan 19 09:10:43 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3235.0535 * IP7CONN smsbx1 IP Connection Restricted
+ - offset: 1884
+Value:  96 Fri Jan 19 09:11:08 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3265.0536 * IP7CONN smsbx1 IP Connection Excess Retransmits
+ - offset: 1885
+Value:  97 Fri Jan 19 09:11:41 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3305.0535 * IP7CONN smsbx1 IP Connection Restricted
+ - offset: 1886
+Value:  98 Fri Jan 19 09:12:36 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3368.0536 * IP7CONN smsbx1 IP Connection Excess Retransmits
+ - offset: 1887
+Value:  99 Fri Jan 19 09:13:05 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3404.0535 * IP7CONN smsbx1 IP Connection Restricted
+ - offset: 1888
+Value:  100 Fri Jan 19 09:13:37 ICT 2018 - EAGLE 46.3.2.0.0-68.32.0 * 3443.0536 * IP7CONN smsbx1 IP Connection Excess Retransmits
+ - offset: 1889
